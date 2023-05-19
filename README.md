@@ -16,13 +16,15 @@
 </svg>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" title="Npm" width="100" height="40"/> 
+
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" title="Nodejs" width="100" height="40"/> 
   
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" title="Expressjs" width="80" height="40"/> 
   
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="Vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="Nuxtjs" width="40" height="40"/>  
-  <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" title="Svelte" width="40" height="40"/> 
+  <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" title="Svelte" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="svelte" title="Svelte" width="40" height="40"/> 
 
 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
